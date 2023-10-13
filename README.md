@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayrpatron
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning R 
+- 🌱 I’m currently learning R, Javascript, PowerBI and Python
 - 💞️ I’m looking to collaborate on spatial data
 - 📫 How to reach me is via email at jayr.patron@gmail.com
 
